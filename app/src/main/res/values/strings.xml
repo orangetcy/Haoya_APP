@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Haoya</string>
+
+    <!--登录注册-->
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="sign_up">注册</string>
+    <string name="sign_in">登录</string>
+    <string name="submit">提交</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="phone_verify">手机号验证</string>
+    <string name="verify_number">请输入短信验证码</string>
+
+</resources>
